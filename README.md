@@ -10,10 +10,10 @@ With it, your agent can read your runs, recovery and goal, check in with you on 
 - Coaching and recovery readings are not medical advice.
 - Step-by-step setup for people: https://pb-runner.com/guide/openclaw
 
-Install from ClawHub (the exact command is on the skill's ClawHub page):
+Install from ClawHub:
 
 ```
-openclaw skills install @<owner>/pb-runner
+openclaw skills install @pb-runner/pb-runner
 ```
 
 You need a PB-Runner account: the app is free on the App Store, Google Play and the Connect IQ Store.
