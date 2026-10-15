@@ -10,7 +10,7 @@ With it, your agent can read your runs, recovery and goal, check in with you on 
 - Coaching and recovery readings are not medical advice.
 - Step-by-step setup for people: https://pb-runner.com/guide/openclaw
 
-Install from ClawHub:
+Install from ClawHub (listing: https://clawhub.ai/pb-runner/pb-runner):
 
 ```
 openclaw skills install @pb-runner/pb-runner
