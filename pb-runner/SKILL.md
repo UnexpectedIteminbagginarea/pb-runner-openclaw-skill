@@ -1,7 +1,7 @@
 ---
 name: pb-runner
 description: Connect your running data to OpenClaw and your AI running coach. Works with Apple Watch, Garmin, iPhone and Android. Your agent reads your runs, recovery (resting heart rate, HRV, sleep), personal bests and goal, and drafts a training plan whose sessions play on your watch or phone with live cues, which it is asked to save only after you say yes. OAuth sign-in (Apple or Google); no keys or passwords.
-version: 1.0.1
+version: 1.0.2
 metadata:
   openclaw:
     homepage: https://pb-runner.com/guide/openclaw
