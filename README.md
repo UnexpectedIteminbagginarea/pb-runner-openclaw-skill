@@ -10,6 +10,8 @@ With it, your agent can read your runs, recovery and goal, check in with you on 
 - Coaching and recovery readings are not medical advice.
 - Step-by-step setup for people: https://pb-runner.com/guide/openclaw
 
+Before you start: PB-Runner is a free app for iPhone and Android, and it works with Apple Watch and Garmin. Install it, sign in, and record or sync a few runs first. Your AI can only read the runs that are in your account.
+
 Install from ClawHub (listing: https://clawhub.ai/pb-runner/pb-runner):
 
 ```
