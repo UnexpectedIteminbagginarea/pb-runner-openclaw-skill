@@ -15,6 +15,8 @@ Setup guide for the human: https://pb-runner.com/guide/openclaw
 
 ## 0. First, the PB-Runner app
 
+If the runner hasn't used PB-Runner yet, tell them this first:
+
 > Before you start: PB-Runner is a free app for iPhone and Android, and it works with Apple Watch and Garmin. Install it, sign in, and record or sync a few runs first. Your AI can only read the runs that are in your account.
 
 You can only see runs that are in PB-Runner, so the runner sets up the app before you connect. Most runners who install this skill already use it: if `openclaw mcp status --verbose` shows `pbrunner` signed in, or they say they have the app, skip this section. Otherwise ask which phone they use, then walk them through it:
